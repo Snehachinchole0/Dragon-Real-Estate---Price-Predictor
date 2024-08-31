@@ -1,7 +1,3 @@
-# Dragon-Real-Estate---Price-Predictor
-Here’s a detailed README for a **Dragon Real Estate - Price Predictor** machine learning project on GitHub:
-
----
 
 # Dragon Real Estate - Price Predictor
 
